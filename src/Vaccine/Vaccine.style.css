@@ -7,3 +7,10 @@
 .vaccine-card:hover {
   background: rgba(135, 207, 235, 0.815);
 }
+
+@media (max-width: 600px) {
+  .vaccine-card {
+    height: 100%;
+    max-height: 250px;
+  }
+}

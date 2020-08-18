@@ -95,7 +95,7 @@ function Home() {
           </header>
           {/*Info boxes part*/}
           <h5 className="text-success my-2">
-            Updated at :{`${new Date(countryInfo.updated)}`}
+            Last updated at: {`${new Date(countryInfo.updated)}`}
           </h5>
           <div className="row">
             <InfoBox
@@ -147,7 +147,7 @@ function Home() {
         </div>
       </div>
 
-      <div className="row">
+      <div className="row p-2">
         <h2 className="text-center mx-auto my-2 text-primary">
           Vaccine's News
         </h2>
