@@ -1,0 +1,17 @@
+.info-box {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 3px 3px 6px gray;
+}
+.cases {
+  color: blue;
+}
+.info--border {
+  border-top: 10px solid red;
+}
+.border--green {
+  border-top: 10px solid green;
+}
+.border--yellow {
+  border-top: 10px solid rgb(240, 206, 16);
+}

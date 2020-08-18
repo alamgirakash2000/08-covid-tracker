@@ -4,12 +4,20 @@
   "private": true,
   "homepage": "https://alamgirakash2000.github.io/08-covid-tracker/",
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "chart.js": "^2.9.3",
     "gh-pages": "^3.1.0",
+    "leaflet": "^1.6.0",
+    "numeral": "^2.0.6",
     "react": "^16.13.1",
+    "react-chartjs-2": "^2.10.0",
     "react-dom": "^16.13.1",
+    "react-leaflet": "^2.7.0",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3"
   },
   "scripts": {

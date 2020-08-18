@@ -1,0 +1,9 @@
+.vaccine-card {
+  height: 250px;
+  overflow: hidden;
+  border-radius: 10px;
+  background: #f0f0f0;
+}
+.vaccine-card:hover {
+  background: rgba(135, 207, 235, 0.815);
+}
