@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/08-covid-tracker/static/css/main.5f361e03.chunk.css",
-    "main.js": "/08-covid-tracker/static/js/main.76ee24ed.chunk.js",
-    "main.js.map": "/08-covid-tracker/static/js/main.76ee24ed.chunk.js.map",
+    "main.css": "/08-covid-tracker/static/css/main.f48faa7e.chunk.css",
+    "main.js": "/08-covid-tracker/static/js/main.635956bc.chunk.js",
+    "main.js.map": "/08-covid-tracker/static/js/main.635956bc.chunk.js.map",
     "runtime-main.js": "/08-covid-tracker/static/js/runtime-main.a3f89271.js",
     "runtime-main.js.map": "/08-covid-tracker/static/js/runtime-main.a3f89271.js.map",
-    "static/js/2.04d6a3e1.chunk.js": "/08-covid-tracker/static/js/2.04d6a3e1.chunk.js",
-    "static/js/2.04d6a3e1.chunk.js.map": "/08-covid-tracker/static/js/2.04d6a3e1.chunk.js.map",
+    "static/css/2.7c35e809.chunk.css": "/08-covid-tracker/static/css/2.7c35e809.chunk.css",
+    "static/js/2.0b1b292a.chunk.js": "/08-covid-tracker/static/js/2.0b1b292a.chunk.js",
+    "static/js/2.0b1b292a.chunk.js.map": "/08-covid-tracker/static/js/2.0b1b292a.chunk.js.map",
     "index.html": "/08-covid-tracker/index.html",
-    "precache-manifest.76279f8535cb2f9806d35b9eaf65dde0.js": "/08-covid-tracker/precache-manifest.76279f8535cb2f9806d35b9eaf65dde0.js",
+    "precache-manifest.1585f3ee9bfccfb79da4d3bcfc42321c.js": "/08-covid-tracker/precache-manifest.1585f3ee9bfccfb79da4d3bcfc42321c.js",
     "service-worker.js": "/08-covid-tracker/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/08-covid-tracker/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.04d6a3e1.chunk.js.LICENSE.txt": "/08-covid-tracker/static/js/2.04d6a3e1.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/08-covid-tracker/static/media/logo.5d5d9eef.svg"
+    "static/css/2.7c35e809.chunk.css.map": "/08-covid-tracker/static/css/2.7c35e809.chunk.css.map",
+    "static/css/main.f48faa7e.chunk.css.map": "/08-covid-tracker/static/css/main.f48faa7e.chunk.css.map",
+    "static/js/2.0b1b292a.chunk.js.LICENSE.txt": "/08-covid-tracker/static/js/2.0b1b292a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a3f89271.js",
-    "static/js/2.04d6a3e1.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.76ee24ed.chunk.js"
+    "static/css/2.7c35e809.chunk.css",
+    "static/js/2.0b1b292a.chunk.js",
+    "static/css/main.f48faa7e.chunk.css",
+    "static/js/main.635956bc.chunk.js"
   ]
 }
