@@ -12,3 +12,6 @@
 .goBack-button:hover {
   text-decoration: none;
 }
+.container {
+  min-height: 90vh;
+}
